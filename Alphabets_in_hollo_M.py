@@ -12,4 +12,4 @@ for i in range(1, N + 1):
         right_part = chr(64 + i) + inner_space + chr(64 + i)
         row = left_part + middle_space + right_part
 
-    print(row)
+    print(row)  
